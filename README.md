@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Mukesh Bhatt
 
 Welcome to my GitHub!  
-I'm a passionate **Data Analyst** who loves transforming raw data into meaningful insights and compelling stories.
+Hi, I'm a Mechanical Engineer turned Data Analyst with 6 years of experience in MEP design engineering. I specialize in HVAC, plumbing, and fire protection systems, and have led design teams and delivered compliance reports across diverse projects.
 
----
+Now, I'm channeling my technical expertise into data analytics — building dashboards, analyzing business processes, and translating complex data into actionable insights.
 
 ## 🧑‍💻 About Me
 
@@ -26,12 +26,26 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Skills & Tools
 
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Tools:** Excel, Power BI, Tableau, Google Data Studio
-- **Others:** Git, Jupyter Notebooks, Data Cleaning & Automation
+### 💼 Engineering Expertise
+- MEP Design (HVAC, Plumbing, Fire Protection)
+- BOQ Estimation & Technical Documentation
+- Project Coordination & Compliance Reporting
+
+### 📊 Data Analytics Toolkit
+- **Excel**: Advanced formulas, pivot tables, dashboards
+- **SQL**: Data querying, joins, aggregations
+- **Python**: Pandas, NumPy, data cleaning
+- **Power BI / Tableau**: Interactive dashboards, KPI tracking
+- **Professional Communication**: Stakeholder reporting, business recommendations
+
+---
+
+## 🎯 Career Goals
+- Transition into a full-time Data Analyst role
+- Apply analytics to operations, supply chain, and sustainability domains
+- Build a portfolio that showcases business impact and technical depth
 
 ---
 
@@ -41,7 +55,7 @@ I believe data and creativity go hand-in-hand.
 When I'm not analyzing data, you'll find me:
 
 - Painting or sketching
-- Writing poetry (sometimes inspired by data!)
+- Writing poetry
 - Exploring new ways to visualize information
 
 ---
